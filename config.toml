@@ -1,6 +1,6 @@
-baseURL = "http://critstrike.github.io"
+baseURL = "https://critstrike.github.io/"
 languageCode = "en-us"
-title = "CritStrike"
+title = "Critstrike"
 
 # Set Theme
 theme = "LoveIt"
