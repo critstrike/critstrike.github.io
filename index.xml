@@ -1,0 +1,12 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>CritStrike | CritStrike</title>
+        <link>https://critstrike.github.io/</link>
+        <description>CritStrike | CritStrike</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2020 00:12:50 -0500</lastBuildDate><atom:link href="https://critstrike.github.io/" rel="self" type="application/rss+xml" /><item>
+                <title>Posts</title>
+                <link>https://critstrike.github.io/posts/</link>
+                <pubDate>Mon, 16 Mar 2020 00:12:50 -0500</pubDate><guid>https://critstrike.github.io/posts/</guid>
+                <description></description>
+            </item></channel>
+</rss>
