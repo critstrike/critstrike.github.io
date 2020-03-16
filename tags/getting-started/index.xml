@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>getting started on CritStrike</title>
-    <link>https://critstrike.github.io/tags/getting-started/</link>
+    <link>http://critstrike.github.io/tags/getting-started/</link>
     <description>Recent content in getting started on CritStrike</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Mar 2020 00:12:50 -0500</lastBuildDate>
     
-	<atom:link href="https://critstrike.github.io/tags/getting-started/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://critstrike.github.io/tags/getting-started/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to Critical Strike!</title>
-      <link>https://critstrike.github.io/posts/welcome/</link>
+      <link>http://critstrike.github.io/posts/welcome/</link>
       <pubDate>Mon, 16 Mar 2020 00:12:50 -0500</pubDate>
       
-      <guid>https://critstrike.github.io/posts/welcome/</guid>
+      <guid>http://critstrike.github.io/posts/welcome/</guid>
       <description>Welcome Welcome to Critical Strike! We are a team of security enthusiasts who love to compete and learn via CTFs. Anyone is welcome to join us regardless of experience level. All that we ask is for you to be polite, engaging, and willing to participate in the posted events. For more information regarding the team and any events that we are involved in make sure to follow us on the mediums down below.</description>
     </item>
     
