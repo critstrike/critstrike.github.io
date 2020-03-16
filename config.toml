@@ -35,3 +35,14 @@ theme = "LoveIt"
     url = "/categories/"
     title = ""
     weight = 3
+
+# Home Page Info
+[params.home]
+  [params.home.profile]
+    enable = true
+    typeit = false
+    social = true
+
+# Social information
+[params.social]
+  GitHub = "critstrike"
